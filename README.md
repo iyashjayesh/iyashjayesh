@@ -5,7 +5,7 @@
 **iyashjayesh/iyashjayesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on **Software Engineering Projects and Machine Learning** to help in EdTech industries.
+- 🔭 I’m currently working on **Software Engineering Projects and Machine Learning**. 
 - 🌱 I’m currently learning **Software Engineering**
 - 👯 I’m looking to collaborate on bulding communities, building startup 😉
 - 💬 Ask me about Software Engineering, Data Science, Machine Learning, Career, etc.
