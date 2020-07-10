@@ -1,16 +1,18 @@
-### Hi there 👋
-
+### Hi there 👋, I am Yash Chauhan
 <!--
 **iyashjayesh/iyashjayesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Software Engineering Projects and Machine Learning** to help in EdTech industries.
+- 🌱 I’m currently learning **Software Engineering**
+- 👯 I’m looking to collaborate on bulding communities, building startup 😉
+- 💬 Ask me about Software Engineering, Data Science, Machine Learning, Career, etc.
+- 📫 How to reach me: [er.yashjayeshchauhan@gmail.com](mailto:er.yashjayeshchauhan@gmail.com)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I am crazy about **O(1)**
+
+
+• [Twitter](https://twitter.com/iyashjayesh) • [LinkedIn](https://www.linkedin.com/in/iyashjayesh/)
+
+
+
