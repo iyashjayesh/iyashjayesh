@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I am crazy about **O(1)**
 
 
-• [Twitter](https://twitter.com/iyashjayesh) • [LinkedIn](https://www.linkedin.com/in/iyashjayesh/)
+• [Twitter](https://twitter.com/iyashjayesh) • [LinkedIn](https://www.linkedin.com/in/iyashjayesh/) • [Medium](https://medium.com/@iyashjayesh) • [Instagram](https://www.instagram.com/iyashjayesh/?hl=en)
 
 
 
