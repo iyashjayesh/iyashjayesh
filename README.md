@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Software Engineering Projects and Machine Learning**. 
 - 🌱 I’m currently learning **Software Engineering**
 - 👯 I’m looking to collaborate on bulding communities, building startup 😉
-- 💬 Ask me about Software Engineering, Data Science, Machine Learning, Career, etc.
+- 💬 Ask me about Software Engineering, Augmented Reality, Virtual Reality, Game Development, Machine Learning, Career, etc.
 - 📫 How to reach me: [er.yashjayeshchauhan@gmail.com](mailto:er.yashjayeshchauhan@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am crazy about **O(1)**
