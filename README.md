@@ -16,7 +16,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 - 📫 How to reach me: [iyashjayesh@gmail.com](mailto:iyashjayesh@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am crazy about **O(1)**
-- 📝 I regulary write articles on [https://medium.com/@iyashjayesh](https://medium.com/@iyashjayesh)
+- 📝 I regulary write articles on [https://medium.com/@codingyash](https://medium.com/@codingyash)
 - 💬 Ask me about **React & Golang**
 - ⚡ Fun fact **Coffee over anything!!**
 
