@@ -9,16 +9,15 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashjayesh" alt="iyashjayesh" /> </p>
 
-- 🔭 I’m currently working on **Software Engineering Projects and Machine Learning**. 
-- 🌱 I’m currently learning **Javascript and Golang**
-- 👯 I’m looking to collaborate on bulding communities, building startup 😉
-- 💬 Ask me about Software Engineering, Augmented Reality, Virtual Reality, Game Development, Machine Learning, Career, etc.
-- 📫 How to reach me: [iyashjayesh@gmail.com](mailto:iyashjayesh@gmail.com)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I am crazy about **O(1)**
-- 📝 I regulary write articles on [https://medium.com/@codingyash](https://medium.com/@codingyash)
-- 💬 Ask me about **React & Golang**
-- ⚡ Fun fact **Coffee over anything!!**
+As a software engineer, I have honed my skills as a full-stack developer and gained a deep understanding of both frontend and backend technologies. With a passion for contributing to team success through hard work, attention to detail, and excellent organizational skills, I am dedicated to building innovative solutions that exceed client expectations.
+
+I am currently focused on Software Engineering Projects and Machine Learning, always eager to learn new technologies and expand my skill set. My expertise in Golang, Redis, PostgreSQL, Clickhouse, ReactJs, and Material UI which I am currently learning, allows me to stay on the cutting edge of the field.
+
+I am an enthusiastic collaborator and enjoy building communities and startups. With experience in Augmented Reality, Virtual Reality, Game Development, and Machine Learning, I offer a unique perspective and valuable contribution to any project.
+
+In my free time, I write articles on Medium about software engineering and share my knowledge and experience with others. I believe that learning by doing and sharing with others is the best way to learn, which is why I became a #MSFTstudentambassador.
+
+If you have any questions or are interested in connecting, please don't hesitate to reach out to me at iyashjayesh@gmail.com.
 
 ### Tech Stack
 <!-- BLOG-POST-LIST:START -->
