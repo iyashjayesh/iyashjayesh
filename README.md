@@ -42,7 +42,7 @@ I am a Backend Developer with 2+ years of experience in developing enterprise ap
 
 All of my projects are released as open-source on GitHub:
 
-- [MoniGO](https://github.com/iyashjayesh/monigo) - MoniGo is a performance monitoring library for Go apps, offering real-time insights into service-level and function-level metrics. With an intuitive UI, it enables developers to track and optimize performance. Get your Go app's dashboard up in just 10 seconds! Get more information about this project on [Product Hunt](https://www.producthunt.com/posts/monigo)
+- [MoniGO](https://github.com/iyashjayesh/monigo) - (In Development 🚧) MoniGo is a performance monitoring library for Go apps, offering real-time insights into service-level and function-level metrics. With an intuitive UI, it enables developers to track and optimize performance. Get your Go app's dashboard up in just 10 seconds! Get more information about this project on [Product Hunt](https://www.producthunt.com/posts/monigo)
 
 [⏩ &nbsp; and many more](https://github.com/iyashjayesh?tab=repositories&q=&type=source&language=&sort=stargazers)
 
