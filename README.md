@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashjayesh" alt="iyashjayesh" /> </p>
 
-- 🔭 &nbsp;I’m currently working on building **MoniGO** :wink: (In Development)
+- 🔭 &nbsp;I’m currently building **MoniGO** :wink: (In Development)
 - 🌱 &nbsp;I’m currently learning Go, System Desgin and Japanese 😉
 - 💬 &nbsp;Ask me about anything related to Golang/Distributed Arch/Cloud Computing/Migrations
 
