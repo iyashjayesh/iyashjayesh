@@ -38,11 +38,11 @@ I am a back-end developer with 2+ years of experience developing enterprise appl
 - **Others:** REST, GraphQL, Microservices, CI/CD, TDD(Test Driven Development), DDD(Domain Driven Development), OOP(Object Oriented Programming), Design Patterns
 - **Learning:** React, Material UI, Tailwind CSS, AWS & Japanese 🇯🇵 🙃 -->
 
-#### My Opensource Story
+#### Opensource
 
 All of my projects are released as open-source on GitHub:
 
-- [MoniGO](https://github.com/iyashjayesh/monigo) - (In Development 🚧) MoniGo is a performance monitoring library for Go apps, offering real-time insights into service-level and function-level metrics. An intuitive UI enables developers to track and optimize performance. Get your Go app's dashboard up in just 10 seconds! 
+- [MoniGO](https://github.com/iyashjayesh/monigo) - **MoniGo** is a performance monitoring library for Go apps, offering real-time insights into service-level and function-level metrics. An intuitive UI enables developers to track and optimize performance. Get your Go app's dashboard up in just 10 seconds! 
 
 <!-- Get more information about this project on [Product Hunt](https://www.producthunt.com/posts/monigo)-->
 
