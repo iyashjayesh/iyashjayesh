@@ -4,7 +4,7 @@ This is the place where I open source stuff and break things :rofl:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashjayesh" alt="iyashjayesh" /> </p>
 
-- 🔭 &nbsp; I’m currently maintaining [**MoniGO**](https://github.com/iyashjayesh/monigo) :wink: and building [Emitzy](https://www.emitzy.com/) 🚀 — a professional invoicing tool to help you manage invoices and contracts effortlessly. Spend less time managing invoices and more time growing your business! Emitzy ensures your clients are always reminded on time.
+- 🔭 &nbsp; I’m currently maintaining [**MoniGO**](https://github.com/iyashjayesh/monigo) :wink:
 - 🌱 &nbsp; I’m currently learning Go, System Design and Japanese 😉
 - 💬 &nbsp; Ask me about anything related to Golang/Distributed Arch/Cloud Computing/Migrations
 
