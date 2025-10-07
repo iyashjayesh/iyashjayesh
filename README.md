@@ -4,7 +4,7 @@ This is the place where I open source stuff and break things :rofl:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashjayesh" alt="iyashjayesh" /> </p>
 
-- 🔭 &nbsp; I’m currently maintaining [**MoniGO**](https://github.com/iyashjayesh/monigo) :wink:
+- 🔭 &nbsp; I’m currently maintaining [**MoniGo**](https://github.com/iyashjayesh/monigo), [**gocron-ui**](https://github.com/go-co-op/gocron-ui) :wink:
 - 🌱 &nbsp; I’m currently learning Go, System Design and Japanese 😉
 - 💬 &nbsp; Ask me about anything related to Golang/Distributed Arch/Cloud Computing/Migrations
 
@@ -42,7 +42,9 @@ I am a back-end developer with 2+ years of experience developing enterprise appl
 
 All of my projects are released as open-source on GitHub:
 
-- [MoniGO](https://github.com/iyashjayesh/monigo) - **MoniGo** is a performance monitoring library for Go apps, offering real-time insights into service-level and function-level metrics. An intuitive UI enables developers to track and optimize performance. Get your Go app's dashboard up in just 10 seconds! Get more information about this project on [Product Hunt](https://www.producthunt.com/posts/monigo)
+- [MoniGo](https://github.com/iyashjayesh/monigo) - **MoniGo** is a performance monitoring library for Go apps, offering real-time insights into service-level and function-level metrics. An intuitive UI enables developers to track and optimize performance. Get your Go app's dashboard up in just 10 seconds! Get more information about this project on [Product Hunt](https://www.producthunt.com/posts/monigo)
+
+- [gocron-ui](https://github.com/go-co-op/gocron-ui) - **gocron-ui** is a lightweight, real-time web interface for monitoring and controlling gocron scheduled jobs. It provides a complete solution for visualizing job schedules, tracking execution status, and managing jobs through an intuitive web dashboard.
 
 [⏩ &nbsp; and many more](https://github.com/iyashjayesh?tab=repositories&q=&type=source&language=&sort=stargazers)
 
