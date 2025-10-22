@@ -4,7 +4,7 @@ This is the place where I open source stuff and break things :rofl:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashjayesh" alt="iyashjayesh" /> </p>
 
-- 🔭 &nbsp; I’m currently maintaining [**MoniGo**](https://github.com/iyashjayesh/monigo), [**gocron-ui**](https://github.com/go-co-op/gocron-ui) :wink:
+- 🔭 &nbsp; I’m currently maintaining [**MoniGo**](https://github.com/iyashjayesh/monigo), [**gocron-ui**](https://github.com/go-co-op/gocron-ui), [**gocron**](https://github.com/go-co-op/gocron) :wink:
 - 🌱 &nbsp; I’m currently learning Go, System Design and Japanese 😉
 - 💬 &nbsp; Ask me about anything related to Golang/Distributed Arch/Cloud Computing/Migrations
 
