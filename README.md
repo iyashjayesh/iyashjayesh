@@ -4,7 +4,7 @@ This is the place where I open source stuff and break things :rofl:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyashjayesh" alt="iyashjayesh" /> </p>
 
-- 🔭 &nbsp; I’m currently maintaining [**go-adaptive-pool**](https://github.com/iyashjayesh/go-adaptive-pool), [**MoniGo**](https://github.com/iyashjayesh/monigo), [**gocron-ui**](https://github.com/go-co-op/gocron-ui), [**gocron**](https://github.com/go-co-op/gocron) :wink:
+- 🔭 &nbsp; I’m currently maintaining [**goscaf**](https://github.com/iyashjayesh/goscaf), [**go-adaptive-pool**](https://github.com/iyashjayesh/go-adaptive-pool), [**MoniGo**](https://github.com/iyashjayesh/monigo), [**gocron-ui**](https://github.com/go-co-op/gocron-ui), [**gocron**](https://github.com/go-co-op/gocron) :wink:
 - 🌱 &nbsp; I’m currently learning Go, System Design and Japanese 😉
 - 💬 &nbsp; Ask me about anything related to Golang/Distributed Arch/Cloud Computing/Migrations
 
@@ -49,6 +49,8 @@ My preferred tech stack includes Golang, Next.js, and MongoDB. Outside of work, 
 #### Opensource
 
 All of my projects are released as open-source on GitHub:
+
+- [goscaf](https://github.com/iyashjayesh/goscaf) - **goscaf** generates opinionated, production-quality Go project boilerplate via an interactive CLI. No need of copy-pasting skeleton code between projects. 
 
 - [go-adaptive-pool](https://github.com/iyashjayesh/go-adaptive-pool) - **go-adaptive-pool** A production-grade adaptive worker pool for Go that handles dynamic scaling, backpressure, metrics and safe shutdown under load. It's built to keep your system stable when traffic spikes by not letting goroutines grow out of control.
 
