@@ -28,7 +28,7 @@
 - 🛠 &nbsp; Maintainer of **goscaf**, **MoniGo**, **go-adaptive-pool**, **gocron-ui** & **gocron**
 - 🌱 &nbsp; Currently sharpening: **Go internals · System Design · Japanese** 🇯🇵
 - ✍️ &nbsp; I write on [Medium](https://medium.com/codingyash) about backend & distributed systems
-- 🏆 &nbsp; 27+ hackathons — purely for the challenge and fun
+- 🏆 &nbsp; 27+ hackathons - purely for the challenge and fun
 - 💬 &nbsp; Hit me up on anything **Go · Distributed Arch · Cloud · Migrations**
 - 🌐 &nbsp; My corner of the internet → **[yashchauhan.dev](https://www.yashchauhan.dev/)**
 
@@ -83,9 +83,9 @@
 |---|---|---|
 | [**elevenlabs-go**](https://github.com/iyashjayesh/elevenlabs-go) | Go SDK for interacting with the ElevenLabs API, specifically focusing on the new ElevenAgents (Conversational AI) module. | [![Stars](https://img.shields.io/github/stars/iyashjayesh/elevenlabs-go?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/elevenlabs-go) |
 | [**openfga-rust-sdk**](https://github.com/iyashjayesh/openfga-rust-sdk) | The Rust SDK for OpenFGA - an open-source Fine-Grained Authorization system inspired by Google Zanzibar. | [![Stars](https://img.shields.io/github/stars/iyashjayesh/openfga-rust-sdk?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/openfga-rust-sdk) |
-| [**goscaf**](https://github.com/iyashjayesh/goscaf) | Production-quality Go project boilerplate generator via interactive CLI — no more copy-pasting skeleton code | [![Stars](https://img.shields.io/github/stars/iyashjayesh/goscaf?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/goscaf) |
+| [**goscaf**](https://github.com/iyashjayesh/goscaf) | Production-quality Go project boilerplate generator via interactive CLI - no more copy-pasting skeleton code | [![Stars](https://img.shields.io/github/stars/iyashjayesh/goscaf?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/goscaf) |
 | [**go-adaptive-pool**](https://github.com/iyashjayesh/go-adaptive-pool) | Production-grade adaptive worker pool for Go with dynamic scaling, backpressure, metrics & safe shutdown | [![Stars](https://img.shields.io/github/stars/iyashjayesh/go-adaptive-pool?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/go-adaptive-pool) |
-| [**MoniGo**](https://github.com/iyashjayesh/monigo) | Performance monitoring library for Go apps — real-time service & function-level metrics with a beautiful UI in 10 seconds | [![Stars](https://img.shields.io/github/stars/iyashjayesh/monigo?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/monigo) |
+| [**MoniGo**](https://github.com/iyashjayesh/monigo) | Performance monitoring library for Go apps - real-time service & function-level metrics with a beautiful UI in 10 seconds | [![Stars](https://img.shields.io/github/stars/iyashjayesh/monigo?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/monigo) |
 | [**gocron-ui**](https://github.com/go-co-op/gocron-ui) | Lightweight real-time web UI for monitoring and controlling gocron scheduled jobs | [![Stars](https://img.shields.io/github/stars/go-co-op/gocron-ui?style=flat-square&color=6d28d9)](https://github.com/go-co-op/gocron-ui) |
 | [**gocron**](https://github.com/go-co-op/gocron) | A Golang job scheduling package which lets you run Go functions periodically at pre-determined interval | [![Stars](https://img.shields.io/github/stars/go-co-op/gocron?style=flat-square&color=6d28d9)](https://github.com/go-co-op/gocron) |
 
@@ -97,8 +97,8 @@
 
 ### 📚 &nbsp;Publications
 
-- 📄 [**Cardiovascular Disease Prediction using Classification Algorithms of Machine Learning**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SlmQNEIAAAAJ&citation_for_view=SlmQNEIAAAAJ:u5HHmVD_uO8C) — *International Journal of Science and Research, Vol. 9 (5), pp. 194–200*
-- 📄 [**Different Sorting Algorithms Comparison Based upon the Time Complexity**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SlmQNEIAAAAJ&citation_for_view=SlmQNEIAAAAJ:9yKSN-GCB0IC) — *International Journal of Research and Analytical Reviews, pp. 114–121*
+- 📄 [**Cardiovascular Disease Prediction using Classification Algorithms of Machine Learning**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SlmQNEIAAAAJ&citation_for_view=SlmQNEIAAAAJ:u5HHmVD_uO8C) - *International Journal of Science and Research, Vol. 9 (5), pp. 194–200*
+- 📄 [**Different Sorting Algorithms Comparison Based upon the Time Complexity**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SlmQNEIAAAAJ&citation_for_view=SlmQNEIAAAAJ:9yKSN-GCB0IC) - *International Journal of Research and Analytical Reviews, pp. 114–121*
 
 ---
 
