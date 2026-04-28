@@ -81,6 +81,8 @@
 
 | Project | Description | Stars |
 |---|---|---|
+| [**elevenlabs-go**](https://github.com/iyashjayesh/elevenlabs-go) | Go SDK for interacting with the ElevenLabs API, specifically focusing on the new ElevenAgents (Conversational AI) module. | [![Stars](https://img.shields.io/github/stars/iyashjayesh/elevenlabs-go?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/elevenlabs-go) |
+| [**openfga-rust-sdk**](https://github.com/iyashjayesh/openfga-rust-sdk) | The Rust SDK for OpenFGA - an open-source Fine-Grained Authorization system inspired by Google Zanzibar. | [![Stars](https://img.shields.io/github/stars/iyashjayesh/openfga-rust-sdk?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/openfga-rust-sdk) |
 | [**goscaf**](https://github.com/iyashjayesh/goscaf) | Production-quality Go project boilerplate generator via interactive CLI — no more copy-pasting skeleton code | [![Stars](https://img.shields.io/github/stars/iyashjayesh/goscaf?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/goscaf) |
 | [**go-adaptive-pool**](https://github.com/iyashjayesh/go-adaptive-pool) | Production-grade adaptive worker pool for Go with dynamic scaling, backpressure, metrics & safe shutdown | [![Stars](https://img.shields.io/github/stars/iyashjayesh/go-adaptive-pool?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/go-adaptive-pool) |
 | [**MoniGo**](https://github.com/iyashjayesh/monigo) | Performance monitoring library for Go apps — real-time service & function-level metrics with a beautiful UI in 10 seconds | [![Stars](https://img.shields.io/github/stars/iyashjayesh/monigo?style=flat-square&color=6d28d9)](https://github.com/iyashjayesh/monigo) |
