@@ -54,6 +54,8 @@ Previously: **Qube Cinema** (ad delivery at **2M+ impressions/month**) · **Alta
 
 <div align="center">
 
+**474 of my 516 GitHub stars are Go libraries** &nbsp;·&nbsp; MoniGo 410 · go-adaptive-pool 32 · goscaf 31
+
 <img src="https://streak-stats.demolab.com/?user=iyashjayesh&theme=midnight-purple&hide_border=true&background=0d0d1a" alt="4,643 contributions since 2019"/>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iyashjayesh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&hide=issues" alt="GitHub stats"/>
