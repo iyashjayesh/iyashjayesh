@@ -15,7 +15,7 @@
 - 🔭 Building **multi-tenant voice cloning & TTS** at Flam — cut end-to-end LipSync processing time by **52%**
 - 🆕 Just shipped **[tokenchit](https://github.com/iyashjayesh/tokenchit)** → [tokenchit.app](https://tokenchit.app) — `npx @tokenchit/cli generate`
 - 🛠 Maintaining **[MoniGo](https://github.com/iyashjayesh/monigo)**, **[goscaf](https://github.com/iyashjayesh/goscaf)** and **[go-adaptive-pool](https://github.com/iyashjayesh/go-adaptive-pool)** — MoniGo and goscaf are both listed in **[awesome-go](https://github.com/avelino/awesome-go)**
-- 🤝 Contributing to **[go-co-op/gocron](https://github.com/go-co-op/gocron)** (7k★) and **[gocron-ui](https://github.com/go-co-op/gocron-ui)**
+- 🤝 Maintaining **[gocron](https://github.com/go-co-op/gocron)** (7.1k★) and **[gocron-ui](https://github.com/go-co-op/gocron-ui)** in the **[go-co-op](https://github.com/go-co-op)** org
 - ✍️ Writing about Go runtime, observability and scaling reads → **[codingyash.medium.com](https://codingyash.medium.com/)**
 - 🌱 Going deep on Go internals, distributed systems design, and Japanese 🇯🇵
 
@@ -25,14 +25,16 @@ Previously: **Qube Cinema** (ad delivery at **2M+ impressions/month**) · **Alta
 
 ### Selected work
 
-| Project | What it does | |
-|---|---|---|
-| **[tokenchit](https://github.com/iyashjayesh/tokenchit)** | Turns your local AI coding-agent logs into a stat card you **commit as a file** — no hosted endpoint to rate-limit it, and nothing leaves your machine unless you publish | [tokenchit.app](https://tokenchit.app) |
-| **[MoniGo](https://github.com/iyashjayesh/monigo)** | Embeddable runtime observability for Go — function-level pprof tracing, live dashboard, Prometheus + OTLP export, one `go get` | [![](https://img.shields.io/github/stars/iyashjayesh/monigo?style=flat-square&label=&color=6d28d9)](https://github.com/iyashjayesh/monigo) |
-| **[goscaf](https://github.com/iyashjayesh/goscaf)** | Interactive CLI that scaffolds production-shaped Go services — gin/fiber/chi/echo, Viper, structured logs, Docker + CI | [![](https://img.shields.io/github/stars/iyashjayesh/goscaf?style=flat-square&label=&color=6d28d9)](https://github.com/iyashjayesh/goscaf) |
-| **[go-adaptive-pool](https://github.com/iyashjayesh/go-adaptive-pool)** | Worker pool that scales under load, enforces backpressure, and shuts down without dropping work | [![](https://img.shields.io/github/stars/iyashjayesh/go-adaptive-pool?style=flat-square&label=&color=6d28d9)](https://github.com/iyashjayesh/go-adaptive-pool) |
-| **[openfga-rust-sdk](https://github.com/iyashjayesh/openfga-rust-sdk)** | Rust SDK for OpenFGA — Zanzibar-style fine-grained authorization | |
-| **[FynCut](https://github.com/iyashjayesh/fyncut)** | AI pipeline that cuts long-form video into vertical clips. Was a SaaS; [open-sourced it](https://www.yashchauhan.dev/blog/why-im-open-sourcing-my-ai-video-saas-fyncut) | |
+| Project | What it does | Stars | Link |
+|---|---|---|---|
+| **[tokenchit](https://github.com/iyashjayesh/tokenchit)** | Turns your local AI coding-agent logs into a stat card you **commit as a file** — no hosted endpoint to rate-limit it, and nothing leaves your machine unless you publish | [![](https://img.shields.io/github/stars/iyashjayesh/tokenchit?style=flat-square&label=&color=6d28d9)](https://github.com/iyashjayesh/tokenchit/stargazers) | [tokenchit.app](https://tokenchit.app) |
+| **[MoniGo](https://github.com/iyashjayesh/monigo)** | Embeddable runtime observability for Go — function-level pprof tracing, live dashboard, Prometheus + OTLP export, one `go get` | [![](https://img.shields.io/github/stars/iyashjayesh/monigo?style=flat-square&label=&color=6d28d9)](https://github.com/iyashjayesh/monigo/stargazers) | [Docs](https://iyashjayesh.github.io/monigo-website/) |
+| **[gocron](https://github.com/go-co-op/gocron)** | The job-scheduling package for Go — cron, duration, one-time and random intervals, distributed locking | [![](https://img.shields.io/github/stars/go-co-op/gocron?style=flat-square&label=&color=6d28d9)](https://github.com/go-co-op/gocron/stargazers) | [pkg.go.dev](https://pkg.go.dev/github.com/go-co-op/gocron/v2) |
+| **[gocron-ui](https://github.com/go-co-op/gocron-ui)** | Real-time web UI for inspecting and controlling gocron scheduled jobs | [![](https://img.shields.io/github/stars/go-co-op/gocron-ui?style=flat-square&label=&color=6d28d9)](https://github.com/go-co-op/gocron-ui/stargazers) | [pkg.go.dev](https://pkg.go.dev/github.com/go-co-op/gocron-ui) |
+| **[go-adaptive-pool](https://github.com/iyashjayesh/go-adaptive-pool)** | Worker pool that scales under load, enforces backpressure, and shuts down without dropping work | [![](https://img.shields.io/github/stars/iyashjayesh/go-adaptive-pool?style=flat-square&label=&color=6d28d9)](https://github.com/iyashjayesh/go-adaptive-pool/stargazers) | [Docs](https://iyashjayesh.github.io/go-adaptive-pool-website/) |
+| **[goscaf](https://github.com/iyashjayesh/goscaf)** | Interactive CLI that scaffolds production-shaped Go services — gin/fiber/chi/echo, Viper, structured logs, Docker + CI | [![](https://img.shields.io/github/stars/iyashjayesh/goscaf?style=flat-square&label=&color=6d28d9)](https://github.com/iyashjayesh/goscaf/stargazers) | [pkg.go.dev](https://pkg.go.dev/github.com/iyashjayesh/goscaf) |
+| **[openfga-rust-sdk](https://github.com/iyashjayesh/openfga-rust-sdk)** | Rust SDK for OpenFGA — Zanzibar-style fine-grained authorization | | [openfga.dev](https://openfga.dev) |
+| **[FynCut](https://github.com/iyashjayesh/fyncut)** | AI pipeline that cuts long-form video into vertical clips — was a SaaS, now open source | | [Why I open-sourced it](https://www.yashchauhan.dev/blog/why-im-open-sourcing-my-ai-video-saas-fyncut) |
 
 [**→ All repositories**](https://github.com/iyashjayesh?tab=repositories&type=source&sort=stargazers)
 
